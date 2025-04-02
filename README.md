@@ -2,6 +2,7 @@
 Mini projeto de Estrutura de Dados I - Listas sequencial e encadeada
 
 ESQUEMATIZAÇÃO GERAL:
+
 Disciplina.h
 t_Disciplina
 - Nome*;
@@ -100,3 +101,8 @@ TO DO:
 - Setar sistemas de erro;
 - Implementar *;
 - Front-end.
+
+
+/*DISCLAIMER*/
+// Tamanho e posição são sempre tratados em termos não computacionais, ou seja:
+// São tratados como tamanho e posição convencionais .:. [0] = 1.
